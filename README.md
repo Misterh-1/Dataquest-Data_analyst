@@ -1,2 +1,18 @@
 # Dataquest-Data_analyst
-Guided projects from dataquest data analyst path
+Guided projects from [dataquest data analyst](https://www.dataquest.io/path/data-analyst/)_ path
+ - [Guided Project_ Analyzing CIA Factbook Data Using SQL](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
+ - [Guided Project_ Profitable App Profiles for the App Store and Google Play Markets](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
+ - [Guided Project_ Exploring Hacker News Posts](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Exploring%20Hacker%20News%20Posts.ipynb)
+ - [Guided Project_ Exploring Ebay Car Sales Data](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
+ - [Guided Project_ Visualizing Earnings Based On College Majors](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
+ - [Guided Project_ Visualizing The Gender Gap In College Degrees](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
+ - [Guided Project_ Clean And Analyze Employee Exit Surveys](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Clean%20And%20Analyze%20Employee%20Exit%20Surveys.ipynb)
+ - [Guided Project_ Analyzing NYC High School Data](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Analyzing%20NYC%20High%20School%20Data.ipynb)
+ - [Guided Project_ Star Wars Survey](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Star%20Wars%20Survey.ipynb)
+ - [Guided Project_ Answering Business Questions using SQL](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Answering%20Business%20Questions%20using%20SQL.ipynb)
+ - [Guided Project_ Popular Data Science Questions](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Popular%20Data%20Science%20Questions.ipynb)
+ - [Guided Project_ Investigating Fandango Movie Ratings](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb)
+ - [Guided Project_ Finding the Best Markets to Advertise In](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
+ - [Guided Project_ Mobile App for Lottery Addiction](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+ - [Guided Project_ Building a Spam Filter with Naive Bayes](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes.ipynb)
+ - [Guided Project_ Winning Jeopardy](https://github.com/Misterh-1/Dataquest-Data_analyst/blob/main/Winning%20Jeopardy.ipynb)
